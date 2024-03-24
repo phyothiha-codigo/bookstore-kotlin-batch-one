@@ -1,4 +1,4 @@
-package models
+package data.models
 
 /**
  * Data structure for book.
